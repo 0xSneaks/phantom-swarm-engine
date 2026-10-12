@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/neon-banner.svg" alt="SWARM ENGINE" width="100%">
+</p>
+
 # phantom-swarm-engine
 
 Real-time **20-agent hive-mind** deliberation engine + **Automated AI Bundler**.
